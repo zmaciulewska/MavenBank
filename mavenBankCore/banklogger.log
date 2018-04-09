@@ -1,0 +1,1680 @@
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-3.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Cezary, address-Z Sosnowca.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1003, amount-300.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1004, amount-300.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-5, address-5.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-null, id_odbiorcy-1004, amount-100.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-100.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-200.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-300.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1006.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1008.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1010, amount-100.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1010, amount-50.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1010.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-3, amount-100.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1014, amount-100.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1014.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-3, amount-0.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1017, amount-100.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1018, amount-100.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1018.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1017.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[DEBUG] 2018-03-25 19:16:00 [main] Bank - Podane konto ju¿ istnieje.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1021, amount-100.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1021, amount-400.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1023, amount-300.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1024, amount-300.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1023, id_odbiorcy-1024, amount-100.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1023.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1024.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1025, amount-100.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1027, amount-300.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1028, amount-300.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:16:00 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1027, id_odbiorcy-1028, amount-400.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-3.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Cezary, address-Z Sosnowca.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1003, amount-300.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1004, amount-300.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-5, address-5.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-null, id_odbiorcy-1004, amount-100.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-100.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-200.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-300.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1006.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1008.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1010, amount-100.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1010, amount-50.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1010.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-3, amount-100.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1014, amount-100.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1014.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-3, amount-0.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1017, amount-100.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1018, amount-100.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1018.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1017.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[DEBUG] 2018-03-25 19:22:22 [main] Bank - Podane konto ju¿ istnieje.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1021, amount-100.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1021, amount-400.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1023, amount-300.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1024, amount-300.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1023, id_odbiorcy-1024, amount-100.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1023.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1024.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1025, amount-100.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1027, amount-300.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1028, amount-300.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:22:22 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1027, id_odbiorcy-1028, amount-400.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-3.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Cezary, address-Z Sosnowca.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1003, amount-300.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1004, amount-300.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-5, address-5.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-null, id_odbiorcy-1004, amount-100.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-100.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-200.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-300.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1006.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1008.
+[INFO ] 2018-03-25 19:23:10 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1010, amount-100.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1010, amount-50.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1010.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-3, amount-100.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1014, amount-100.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1014.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-3, amount-0.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1017, amount-100.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1018, amount-100.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1018.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1017.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[DEBUG] 2018-03-25 19:23:11 [main] Bank - Podane konto ju¿ istnieje.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1021, amount-100.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1021, amount-400.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1023, amount-300.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1024, amount-300.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1023, id_odbiorcy-1024, amount-100.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1023.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1024.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1025, amount-100.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1027, amount-300.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1028, amount-300.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:23:11 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1027, id_odbiorcy-1028, amount-400.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-3.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Cezary, address-Z Sosnowca.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1003, amount-300.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1004, amount-300.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-5, address-5.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-null, id_odbiorcy-1004, amount-100.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-100.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-200.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-300.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1006.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1008.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1010, amount-100.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1010, amount-50.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1010.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-3, amount-100.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1014, amount-100.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1014.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-3, amount-0.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1017, amount-100.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1018, amount-100.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1018.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1017.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[DEBUG] 2018-03-25 19:24:42 [main] Bank - Podane konto ju¿ istnieje.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1021, amount-100.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1021, amount-400.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1023, amount-300.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1024, amount-300.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1023, id_odbiorcy-1024, amount-100.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1023.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1024.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1025, amount-100.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1027, amount-300.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1028, amount-300.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:24:42 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1027, id_odbiorcy-1028, amount-400.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-3.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Cezary, address-Z Sosnowca.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1003, amount-300.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1004, amount-300.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-5, address-5.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-null, id_odbiorcy-1004, amount-100.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-100.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-200.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-300.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1006.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1008.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1010, amount-100.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1010, amount-50.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1010.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-3, amount-100.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1014, amount-100.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1014.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-3, amount-0.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1017, amount-100.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1018, amount-100.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1018.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1017.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[DEBUG] 2018-03-25 19:25:28 [main] Bank - Podane konto ju¿ istnieje.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1021, amount-100.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1021, amount-400.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1023, amount-300.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1024, amount-300.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1023, id_odbiorcy-1024, amount-100.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1023.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1024.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1025, amount-100.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1027, amount-300.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1028, amount-300.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 19:25:28 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1027, id_odbiorcy-1028, amount-400.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-3.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Cezary, address-Z Sosnowca.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1003, amount-300.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1004, amount-300.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-5, address-5.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-null, id_odbiorcy-1004, amount-100.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-100.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-200.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-300.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1006.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1008.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1010, amount-100.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1010, amount-50.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1010.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-3, amount-100.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1014, amount-100.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1014.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-3, amount-0.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1017, amount-100.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1018, amount-100.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1018.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1017.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[DEBUG] 2018-03-25 20:14:33 [main] Bank - Podane konto ju¿ istnieje.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1021, amount-100.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1021, amount-400.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1023, amount-300.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1024, amount-300.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1023, id_odbiorcy-1024, amount-100.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1023.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1024.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1025, amount-100.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1027, amount-300.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1028, amount-300.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:14:33 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1027, id_odbiorcy-1028, amount-400.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-3.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Cezary, address-Z Sosnowca.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1003, amount-300.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1004, amount-300.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-5, address-5.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-null, id_odbiorcy-1004, amount-100.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-100.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-200.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-300.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1006.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1008.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1010, amount-100.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1010, amount-50.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1010.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-3, amount-100.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1014, amount-100.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1014.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-3, amount-0.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1017, amount-100.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1018, amount-100.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1018.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1017.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[DEBUG] 2018-03-25 20:19:44 [main] Bank - Podane konto ju¿ istnieje.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1021, amount-100.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1021, amount-400.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1023, amount-300.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1024, amount-300.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1023, id_odbiorcy-1024, amount-100.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1023.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1024.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1025, amount-100.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1027, amount-300.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1028, amount-300.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:19:44 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1027, id_odbiorcy-1028, amount-400.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-3.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Cezary, address-Z Sosnowca.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1003, amount-300.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1004, amount-300.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-5, address-5.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-null, id_odbiorcy-1004, amount-100.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-100.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-200.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-300.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1006.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1008.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1010, amount-100.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1010, amount-50.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1010.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-3, amount-100.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1014, amount-100.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1014.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-3, amount-0.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1017, amount-100.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1018, amount-100.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1018.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1017.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[DEBUG] 2018-03-25 20:22:49 [main] Bank - Podane konto ju¿ istnieje.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1021, amount-100.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1021, amount-400.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1023, amount-300.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1024, amount-300.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1023, id_odbiorcy-1024, amount-100.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1023.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1024.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1025, amount-100.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1027, amount-300.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1028, amount-300.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:22:49 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1027, id_odbiorcy-1028, amount-400.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-3.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Cezary, address-Z Sosnowca.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1003, amount-300.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1004, amount-300.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-5, address-5.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-null, id_odbiorcy-1004, amount-100.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-100.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-200.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-300.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1006.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1008.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1010, amount-100.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1010, amount-50.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1010.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-3, amount-100.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1014, amount-100.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1014.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-3, amount-0.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1017, amount-100.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1018, amount-100.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1018.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1017.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[DEBUG] 2018-03-25 20:23:02 [main] Bank - Podane konto ju¿ istnieje.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1021, amount-100.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1021, amount-400.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1023, amount-300.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1024, amount-300.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1023, id_odbiorcy-1024, amount-100.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1023.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1024.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1025, amount-100.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1027, amount-300.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1028, amount-300.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:23:02 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1027, id_odbiorcy-1028, amount-400.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-3.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Cezary, address-Z Sosnowca.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1003, amount-300.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1004, amount-300.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-5, address-5.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-null, id_odbiorcy-1004, amount-100.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-100.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-200.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-300.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1006.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1008.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1010, amount-100.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1010, amount-50.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1010.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-3, amount-100.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1014, amount-100.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1014.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-3, amount-0.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1017, amount-100.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1018, amount-100.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1018.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1017.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[DEBUG] 2018-03-25 20:35:45 [main] Bank - Podane konto ju¿ istnieje.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1021, amount-100.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1021, amount-400.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1023, amount-300.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1024, amount-300.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1023, id_odbiorcy-1024, amount-100.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1023.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1024.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1025, amount-100.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1027, amount-300.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1028, amount-300.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:45 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1027, id_odbiorcy-1028, amount-400.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-3.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Cezary, address-Z Sosnowca.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1003, amount-300.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1004, amount-300.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-5, address-5.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-null, id_odbiorcy-1004, amount-100.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-100.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-200.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-300.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1006.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1008.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1010, amount-100.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1010, amount-50.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1010.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-3, amount-100.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1014, amount-100.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1014.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-3, amount-0.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1017, amount-100.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1018, amount-100.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1018.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1017.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[DEBUG] 2018-03-25 20:35:53 [main] Bank - Podane konto ju¿ istnieje.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1021, amount-100.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1021, amount-400.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1023, amount-300.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1024, amount-300.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1023, id_odbiorcy-1024, amount-100.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1023.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1024.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1025, amount-100.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1027, amount-300.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1028, amount-300.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:35:53 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1027, id_odbiorcy-1028, amount-400.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-3.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Cezary, address-Z Sosnowca.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1003, amount-300.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1004, amount-300.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-5, address-5.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-null, id_odbiorcy-1004, amount-100.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-100.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-200.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-300.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1006.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1008.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1010, amount-100.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1010, amount-50.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1010.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-3, amount-100.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1014, amount-100.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1014.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-3, amount-0.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1017, amount-100.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1018, amount-100.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1018.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1017.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[DEBUG] 2018-03-25 20:36:39 [main] Bank - Podane konto ju¿ istnieje.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1021, amount-100.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1021, amount-400.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1023, amount-300.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1024, amount-300.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1023, id_odbiorcy-1024, amount-100.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1023.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1024.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1025, amount-100.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1027, amount-300.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1028, amount-300.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 20:36:39 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1027, id_odbiorcy-1028, amount-400.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-3.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Cezary, address-Z Sosnowca.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1003, amount-300.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1004, amount-300.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-5, address-5.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-null, id_odbiorcy-1004, amount-100.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-100.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-200.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-300.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1006.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1008.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1010, amount-100.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1010, amount-50.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1010.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-3, amount-100.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1014, amount-100.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1014.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-3, amount-0.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1017, amount-100.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1018, amount-100.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1018.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1017.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[DEBUG] 2018-03-25 21:26:15 [main] Bank - Podane konto ju¿ istnieje.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1021, amount-100.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1021, amount-400.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1023, amount-300.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1024, amount-300.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1023, id_odbiorcy-1024, amount-100.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1023.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1024.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1025, amount-100.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1027, amount-300.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1028, amount-300.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:15 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1027, id_odbiorcy-1028, amount-400.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-3.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Cezary, address-Z Sosnowca.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1003, amount-300.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1004, amount-300.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-5, address-5.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-null, id_odbiorcy-1004, amount-100.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-100.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-200.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-300.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1006.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1008.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1010, amount-100.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1010, amount-50.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1010.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-3, amount-100.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1014, amount-100.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1014.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-3, amount-0.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1017, amount-100.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1018, amount-100.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1018.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1017.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[DEBUG] 2018-03-25 21:26:24 [main] Bank - Podane konto ju¿ istnieje.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1021, amount-100.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1021, amount-400.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1023, amount-300.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1024, amount-300.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1023, id_odbiorcy-1024, amount-100.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1023.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1024.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1025, amount-100.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1027, amount-300.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1028, amount-300.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:26:24 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1027, id_odbiorcy-1028, amount-400.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-3.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Cezary, address-Z Sosnowca.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1003, amount-300.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1004, amount-300.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-5, address-5.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-null, id_odbiorcy-1004, amount-100.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-100.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-200.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-300.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1006.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1008.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1010, amount-100.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1010, amount-50.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1010.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-3, amount-100.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1014, amount-100.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1014.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-3, amount-0.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1017, amount-100.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1018, amount-100.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1018.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1017.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[DEBUG] 2018-03-25 21:27:13 [main] Bank - Podane konto ju¿ istnieje.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1021, amount-100.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1021, amount-400.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1023, amount-300.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1024, amount-300.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1023, id_odbiorcy-1024, amount-100.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1023.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1024.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1025, amount-100.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1027, amount-300.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1028, amount-300.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 21:27:13 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1027, id_odbiorcy-1028, amount-400.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-3.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Cezary, address-Z Sosnowca.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1003, amount-300.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1004, amount-300.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-5, address-5.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-null, id_odbiorcy-1004, amount-100.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-100.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-200.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1006, amount-300.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ola, address-m.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1006.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Hanka, address-Z kartonu.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1008.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1010, amount-100.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1010, amount-50.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1010.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-3, amount-100.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1014, amount-100.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1014, amount-25.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1014.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-3, amount-0.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1017, amount-100.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1018, amount-100.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Andrzej, address-krk.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1018.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-jan, address-wwa.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1017.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[DEBUG] 2018-03-25 22:01:29 [main] Bank - Podane konto ju¿ istnieje.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1021, amount-100.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-Ania, address-Mak.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda withdraw dla parametrow id-1021, amount-400.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1023, amount-300.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1024, amount-300.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1023, id_odbiorcy-1024, amount-100.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1023.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1024.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1025, amount-100.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda getBalance dla parametru id-1025.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-ala, address-tam.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda createAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1027, amount-300.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda deposit dla parametrow id-1028, amount-300.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-1, address-1.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda findAccount dla parametrow name-2, address-2.
+[INFO ] 2018-03-25 22:01:29 [main] Bank - Zostala wywolana metoda transfer dla parametrow id_nadawcy-1027, id_odbiorcy-1028, amount-400.
